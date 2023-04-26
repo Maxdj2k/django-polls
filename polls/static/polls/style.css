@@ -1,0 +1,8 @@
+li a:link
+li a:visited {
+    color: green;
+}
+
+body {
+    background-image: url('/static/images/background.png') no-repeat;
+}
